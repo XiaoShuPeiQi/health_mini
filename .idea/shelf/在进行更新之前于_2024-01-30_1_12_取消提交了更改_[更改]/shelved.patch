@@ -1,0 +1,9 @@
+Index: 测试.txt
+===================================================================
+diff --git a/测试.txt b/测试.txt
+deleted file mode 100644
+--- a/测试.txt	(revision cd7adcec6ef1f168af22ce1da7d97aff36dd46f3)
++++ /dev/null	(revision cd7adcec6ef1f168af22ce1da7d97aff36dd46f3)
+@@ -1,1 +0,0 @@
+-healldopfjao
+\ No newline at end of file
